@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola! Soy José Londoño 👋
 
-<!--
-**jlondonob/jlondonob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un científico de datos basado en Medellín, Colombia. 🇨🇴
 
-Here are some ideas to get you started:
+Actualmente hago parte del equipo de [Human Living Data](https://humanld.io/). Juntos estamos innovando para maximizar el potencial de las empresas colombianas y próximamente del resto del mundo. 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Además de las tareas tradicionales de ciencia de datos, he desarrollado múltiples herramientas para automatizar procesos y hacer los procesos de Human más eficientes. 🚀
+
+Me puedes encontrar en:
+
+- [Mi página web](https://jlondono.codes/)
+- [Github](https://github.com/jlondonob)
+- [LinkedIn](https://www.linkedin.com/in/jose-londono-botero/)
