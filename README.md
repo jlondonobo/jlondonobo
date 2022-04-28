@@ -8,6 +8,6 @@ Además de desarrollar productos de ciencia de datos, he diseñado múltiples he
 
 Me puedes encontrar en:
 
-- [Mi página web](https://jlondono.codes/)
+- [Mi sitio web](https://joselondono.co/)
 - [Github](https://github.com/jlondonob)
 - [LinkedIn](https://www.linkedin.com/in/jose-londono-botero/)
