@@ -2,7 +2,7 @@
 
 I'm a 23-year-old Data Scientist from Medellín, Colombia 🇨🇴. I'm currently working at [Human Living Data](https://humanld.io/). For the past 2 years, we have been working hand in hand 🤝🏻 with decision-makers from national and international companies to help them design strategies that make an impact. I've led efforts in areas such as Customer Segmentation, Data Pipeline Design, API Integrations, and Natural Language Processing.
 
-Currently, you will find me leading Advanced Analytics Projects, or developing tools to make our teams more efficient 🚀.
+Currently, you will find me leading advanced analytics projects, or developing tools to make our teams more efficient 🚀.
 
 <div align="center">
 <h2>Let's connect</h2>
