@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I’m Jose  </center></h1>
 
-I'm a 23-year-old Data Scientist from Medellín, Colombia 🇨🇴. I'm currently working at [Human Living Data](https://humanld.io/). For the past 2 years, we have been working hand in hand 🤝🏻 with decision-makers from national and international companies to help them design strategies that make an impact. I've led efforts in areas such as Customer Segmentation, Data Pipeline Design, API Integrations, and Natural Language Processing.
+I'm a 23-year-old Data Scientist from Medellín, Colombia 🇨🇴. I'm currently working at [Human Living Data](https://www.humanld.io/home). For the past 2 years, we have been working hand in hand 🤝🏻 with decision-makers from national and international companies to help them design strategies that make an impact. I've led efforts in areas such as customer segmentation, pipeline design, API integrations, and Natural Language Processing (NLP).
 
-Currently, you will find me leading advanced analytics projects, or developing tools to make our teams more efficient 🚀.
+Currently, you will find me leading advanced analytics projects, or developing tools that make our teams more efficient 🚀. Find more details about my work in my [personal site](https://joselondono.co/).
 
 <div align="center">
 <h2>Let's connect</h2>
